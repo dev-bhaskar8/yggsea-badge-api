@@ -19,7 +19,7 @@ def badge(id):
     dictToReturn = {
     "name":  f"YGG SEA Badge #{id}",
     "image": "ipfs://QmQgQ9RKmXNTk5Fhfs8rPQbb5sj4rarqYCX4YA7aYV3FTP",
-    "description": "YGG SEA Badge NFT",
+    "description": "Your citizenship badge of YGG SEA Metaverse. As citizen of our metaverse, you are a part of a defining moment that is changing the world - one game at a time.",
     "attributes": [
         {
             "trait_type": "Rarity",
